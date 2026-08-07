@@ -35,10 +35,14 @@ vandini-university/
 └── assets/
 ```
 
-##🎯 Purpose
-This project was created to practice frontend development, responsive design, UI/UX, and website structure.
-##👨‍💻 Author
-Vansh Arora
-🌐 Portfolio — https://vansh-arora-portfolio.netlify.app/⁠�
-💼 LinkedIn — https://www.linkedin.com/in/eng-vansh-arora/⁠�
+## 🎯 Purpose
+
+This project was created to practice **frontend development, responsive design, UI/UX, and website structure.**
+
+## 👨‍💻 Author
+
+**Vansh Arora**
+
+🌐 Portfolio — https://vansh-arora-portfolio.netlify.app/  
+💼 LinkedIn — https://www.linkedin.com/in/eng-vansh-arora/  
 📧 Email — arora.vansh.00123@gmail.com
